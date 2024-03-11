@@ -1,5 +1,5 @@
 {
-  "name": "bip32ed25519",
+  "name": "@mandalaverse/bip32ed25519",
   "version": "1.0.0",
   "description": "Pure javascript implementation of Bip32Ed25519, used for Cardano blockchain key pair.",
   "main": "dist/index.js",
